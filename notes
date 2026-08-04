@@ -1,0 +1,9 @@
+## Learning
+
+### Data Structures & Algortithms
+
+**Problem:** remove-element
+
+**Key Insight:**  Avoid deleting or shifting elements repeatedly. Instead, use a **write pointer** to overwrite elements that should be kept.
+
+**Pattern:** Two Pointers (Read / Write)
