@@ -16,3 +16,18 @@
 
 **Pattern:** Two Pointers (Read / Write)
 
+---
+
+**Problem:** majority-element
+
+**Key Insight:** If an element appears more than half of times, then it cannot be completely canceled out by all the other elements combined.
+
+**Pattern:** Boyer–Moore majority vote algorithm
+
+---
+
+**Problem:** 
+
+**Key Insight:**
+
+**Pattern:**
