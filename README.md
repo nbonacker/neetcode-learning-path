@@ -8,7 +8,7 @@
 
 **Pattern:** Canonical Representation
 
---- 
+---
 
 **Problem:** remove-element
 
